@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PaulKhuna</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="error_location_provider">Location not enabled</string>
+    <string name="gps_network_not_enabled">GPS network is not enabled</string>
+    <string name="open_location_settings">Open Location settings</string>
+    <string name="Cancel">Cancel</string>
+</resources>
